@@ -54,7 +54,7 @@ Finally, follow the installation steps for the new version.
 First, install the npm package with yarn. _Autolink_ is automatic.
 
 ```bash
-  yarn add @xmartlabs/react-native-line
+  yarn add @khkwan0/react-native-line
 ```
 
 ### iOS Setup
