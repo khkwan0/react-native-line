@@ -1,5 +1,7 @@
 # ![React Native LINE](/assets/github-banner.png)
 
+## This is a FIX for the android build error...
+
 <p align="center">
   Line SDK wrapper for React Native 🚀
 </p>
