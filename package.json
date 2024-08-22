@@ -1,5 +1,5 @@
 {
-  "name": "@xmartlabs/react-native-line",
+  "name": "@khkwan0/react-native-line",
   "description": "React Native Line wrapper",
   "author": "XmartLabs <hi@xmartlabs.com>",
   "contributors": [
@@ -11,8 +11,8 @@
   ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "version": "2.2.0",
-  "homepage": "https://github.com/xmartlabs/react-native-line#readme",
+  "version": "2.2.1",
+  "homepage": "https://github.com/khkwan0/react-native-line#readme",
   "keywords": [
     "react-native",
     "react",
@@ -21,8 +21,8 @@
     "social login",
     "auth"
   ],
-  "license": "MIT",
   "private": false,
+  "license": "MIT",
   "scripts": {
     "prepare": "yarn run build",
     "android": "react-native run-android",
@@ -48,7 +48,7 @@
     "eslint-plugin-simple-import-sort": "5.0.1",
     "eslint-plugin-sort-keys-fix": "1.1.0",
     "prettier": "1.19.1",
-    "typescript": "3.9.6"
+    "typescript": "^5.5.4"
   },
   "repository": {
     "type": "git",
